@@ -1,3 +1,3 @@
 # mergefreeze
 Test repo for testing mergefreeze app
-some changes
+some changes 2-nd attempt
